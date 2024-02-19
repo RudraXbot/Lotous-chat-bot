@@ -116,7 +116,7 @@ async def must_join_channel(bot: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🧧ɢʀᴏᴜᴘ🧧", url=f'https://t.me/chattinghubucr'),
+                                InlineKeyboardButton("🧧ɢʀᴏᴜᴘ🧧", url=link),
                             ]
                         ]
                     )
