@@ -73,7 +73,7 @@ MAIN = [
     ],
     [
         InlineKeyboardButton(text="ᴘᴀɪᴅ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", callback_data='🤩 ᴍᴀᴀʟᴋɪɴ 🤩'),
-        InlineKeyboardButton(text=" 🧧ɢʀᴏᴜᴘ🧧 ", url=https://t.me/chattinghubucr),
+        InlineKeyboardButton(text=" 🧧ɢʀᴏᴜᴘ🧧 ", url=f"https://t.me/chattinghubucr"),
     ],
 ]
 PNG_BTN = [
